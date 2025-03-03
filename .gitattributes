@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+git[[:space:]]lfs[[:space:]]track[[:space:]]DACN_UDHoTroHocM1CTrucQuan.rarDACN_UDHoTroHocM1CTrucQuan.rar filter=lfs diff=lfs merge=lfs -text
+git[[:space:]]lfs[[:space:]]track[[:space:]]DACN_UDHoTroHocM1CTrucQuan.rar filter=lfs diff=lfs merge=lfs -text
